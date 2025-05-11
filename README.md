@@ -10,7 +10,7 @@
 Aqui você vai encontrar todos os meus projetos acadêmicos e pessoais organizados abaixo.
 
 📁 Confira meu repositório principal:  
-👉 [Meu Portfólio de Projetos](https://github.com/GabrielSanchez12/meu-portfolio)
+👉 [Meu Portfólio de Projetos](https://github.com/GabrielSanchez12/PersonalPortfolio)
 
 ---
 

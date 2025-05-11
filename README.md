@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Gabriel!
 
 🎓 Estudante de Ciência de Dados e Machine Learning na UniCEUB
+
 📚 Primeiro semestre da faculdade  
 
 ---

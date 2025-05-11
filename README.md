@@ -23,7 +23,7 @@ Aqui você vai encontrar todos os meus projetos acadêmicos e pessoais organizad
 
 ---
 
-## 🌐 Meus Contatos
+## 🌐 Entre em contato!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/gabriel-arakaki-sanchez-b63514365/)  
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/_.gabrielsanchez?igsh=bXR1dDQ5NThqbTlk&utm_source=qr)
